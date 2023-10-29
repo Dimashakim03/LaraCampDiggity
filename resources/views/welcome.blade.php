@@ -43,7 +43,7 @@
         <div class="container">
             <div class="row text-center pb-70">
                 <div class="col-lg-12 col-12 header-wrap">
-                    <p class="story">
+                    <p class="story-benefit">
                         OUR SUPER BENEFITS
                     </p>
                     <h2 class="primary-header">
@@ -329,7 +329,7 @@
         <div class="container">
             <div class="row text-center pb-70">
                 <div class="col-lg-12 col-12 header-wrap">
-                    <p class="story">
+                    <p class="story-students">
                         SUCCESS STUDENTS
                     </p>
                     <h2 class="primary-header">
@@ -401,7 +401,7 @@
                     <div class="row copyright">
                         <div class="col-lg-12 col-12">
                             <p>
-                                All Rights Reserved. Copyright Laracamp BWA Indonesia.
+                                All Rights Reserved. Copyright Diggity ID.
                             </p>
                         </div>
                     </div>

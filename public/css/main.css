@@ -122,7 +122,7 @@ body {
 
 .pricing {
   margin-top: 100px;
-  background: #0057ff;
+  background: #0d134f;
   padding-top: 70px;
   max-height: 620px;
 }
@@ -134,7 +134,7 @@ body {
 .pricing .support {
   font-size: 16px;
   font-weight: 400;
-  color: #0d0d0e;
+  color: #a9a4bc;
   line-height: 30px;
   margin-top: 30px;
 }
@@ -207,7 +207,7 @@ body {
 }
 
 .btn-thirdty {
-  background: #31B380;
+  background: #0057ff;
   color: #fff;
 }
 
@@ -223,8 +223,21 @@ body {
 .story {
   font-weight: 600;
   font-size: 16px;
-  color: #31B380;
+  color: #36b268;
 }
+
+.story-benefit {
+  font-weight: 600;
+  font-size: 16px;
+  color: #36b268;
+}
+
+.story-students {
+  font-weight: 600;
+  font-size: 16px;
+  color: #36b268;
+}
+
 
 .primary-header {
   font-weight: 600;
@@ -240,6 +253,7 @@ body {
   width: 56px;
   height: 56px;
   margin-bottom: 20px;
+  color: #0057ff;
 }
 
 .benefits .item-benefit .title {
@@ -276,7 +290,7 @@ body {
 }
 
 .btn-secondary {
-  background: #F5EFFF;
+  background: #e5e9f2;
   color: #0087ff;
 }
 
@@ -385,6 +399,9 @@ body {
 }
 
 .navbar .navbar-brand img {
-  height: 42px;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 120px;
 }
 /*# sourceMappingURL=main.css.map */
